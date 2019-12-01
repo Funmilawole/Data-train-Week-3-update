@@ -1,0 +1,26 @@
+Control flow 1-5, 11:
+#Difference between 10 / 3 and 10 // 3: 10 / 3 returns an float and 10 // 3 returns an interger.
+10 / 3: 3.333333333
+10 // 3: 3
+10 *** 3: 1000 (*** means to the power of 3)
+x = 1;
+#therefore 
+X += 2 
+#returns X += 2
+#Rounding a number in python 
+round()
+round(3.6)
+4
+float(1)
+1.0
+# Under what circumstance does the expression 18 <= age < 65 evaluate to true?
+if age is between 18 to 64
+
+Functions:
+A parameter entity in a function (or method) specifies an argument that the function can accept.
+Argument is the actual value passed to a function (or method) when calling the function. 
+Parameters are defined by the names that appear in a function definition, whereas arguments are the values actually passed to a function when calling it.
+Assigning an equal sign after your parameter and set it to a varaible, this enables you to call a function without necessarily giving it any parameters because the optional parameters are going to be the default values without wrting any code in the function argument.
+All functions in Python by default return the argument assigned to the assignment operator (=). It returns the default value required (mandatory) during a call.
+keyword argument: an argument preceded by an identifier (e.g. age=) in a function call or passed as a value in a dictionary preceded by **. Keyword arguments can often be used to make function calls more explicit. 
+The *identifier is present, to call functions with multiple arguments. These arguments get wrapped up into a tuple before being passed into the function. it handles function calls with arbitrary number of arguments.
